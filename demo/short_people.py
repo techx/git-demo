@@ -8,4 +8,5 @@ class ShortPeopleIdentifier:
 
 if __name__ == '__main__':
     name = 'joyce'
+    #code change
     print(ShortPeopleIdentifier.check('joyce'))
